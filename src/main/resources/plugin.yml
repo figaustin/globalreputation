@@ -1,0 +1,9 @@
+name: GlobalReputation
+version: '${project.version}'
+main: com.etsuni.globalreputation.GlobalReputation
+api-version: 1.13
+commands:
+  getrep:
+    description: "Does things"
+  addplayer:
+    description: "Does stuff"
